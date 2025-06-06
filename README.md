@@ -1,4 +1,4 @@
-# RealTimeNotificationUsingWebSocket
+# RealTimeNotification
 
 A Spring Boot application demonstrating real-time notifications using WebSocket, similar to YouTube's subscriber notification system. This project showcases how to implement real-time messaging in web applications.
 
@@ -15,11 +15,3 @@ A Spring Boot application demonstrating real-time notifications using WebSocket,
 - **Frontend**: HTML, JavaScript
 - **Communication**: WebSocket
 - **Build Tool**: Maven
-
-## 📦 Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Surajhub21/RealTimeNotificationUsingWebSocket.git
-cd RealTimeNotificationUsingWebSocket
